@@ -74,7 +74,7 @@ local.properties
 .sts4-cache/
 
 # Eclipse Core
-.project
+# .project
 
 # IDT-specific (Eclipse Java Development Tools)
 .classpath
