@@ -21,6 +21,7 @@ public class HomeController {
 	
 	/**
 	 * Simply selects the home view to render by returning its name.  123123
+	 zxczxczxc
 	 */
 	@RequestMapping(value = "/", method = RequestMethod.GET)
 	public String home(Locale locale, Model model) {
